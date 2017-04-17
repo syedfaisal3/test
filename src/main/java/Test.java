@@ -5,5 +5,6 @@ public class Test {
   void method() {
     Object o = null;
     o.toString();
+    System.out.print(o);
   }
 }
