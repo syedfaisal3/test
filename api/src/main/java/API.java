@@ -3,9 +3,12 @@
  */
 public class API {
   void method() {
-    Object o = null;
-    o.toString();
-    System.out.print(o);
-    System.out.print(o);
+    if(1 == 1) {
+      Object o = null;
+      o.toString();
+      System.out.print(o);
+      System.out.print(o);
+    }
+
   }
 }
