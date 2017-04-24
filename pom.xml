@@ -39,7 +39,7 @@
                     </plugins>-->
                 </configuration>
             </plugin>
-                 <!-- checkstyle plugin -->
+                 <!-- checkstyle plugin_1 -->
                  <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
