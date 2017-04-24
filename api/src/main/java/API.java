@@ -3,7 +3,7 @@
  */
 public class API {
   void method() {
-    if(1 == 1) {
+    if (1 == 1) {
       Object o = null;
       o.toString();
       System.out.print(o);
